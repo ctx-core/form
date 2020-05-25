@@ -2,7 +2,6 @@
 	"name": "@ctx-core/form",
 	"version": "3.1.101",
 	"description": "ctx-core form",
-	"type": "module",
 	"main": "dom.js",
 	"module": "dom.js",
 	"types": "dom.ts",
