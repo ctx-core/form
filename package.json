@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/form",
-	"version": "3.1.115",
+	"version": "3.1.116",
 	"description": "ctx-core form",
 	"main": "index.js",
 	"module": "index.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^5.13.24"
+		"@ctx-core/dom": "^5.13.25"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.6"
