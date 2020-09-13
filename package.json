@@ -2,6 +2,20 @@
 	"name": "@ctx-core/form",
 	"version": "3.1.169",
 	"description": "ctx-core form",
+	"keywords": [
+		"ctx-core",
+		"form"
+	],
+	"homepage": "https://github.com/ctx-core/form#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/form/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/form/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,31 +23,17 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/form/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"form"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/form/issues"
-	},
-	"homepage": "https://github.com/ctx-core/form#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^6.0.34"
+		"@ctx-core/dom": "workspace:*"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "432ad912f92a67a095d54b2427a654c34bc7251c"
 }
