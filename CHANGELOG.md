@@ -1,5 +1,11 @@
 # @ctx-core/form
 
+## 4.0.41
+
+### Patch Changes
+
+- @ctx-core/dom@7.0.41
+
 ## 4.0.40
 
 ### Patch Changes
