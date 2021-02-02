@@ -1,5 +1,11 @@
 # @ctx-core/form
 
+## 5.0.6
+
+### Patch Changes
+
+- @ctx-core/dom@8.1.3
+
 ## 5.0.5
 
 ### Patch Changes
