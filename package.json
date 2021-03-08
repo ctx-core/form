@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/form",
-	"version": "5.0.31",
+	"version": "5.0.33",
 	"description": "ctx-core form",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^8.2.9"
+		"@ctx-core/dom": "workspace:^8.2.11"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.3"
