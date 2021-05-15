@@ -1,1 +1,1 @@
-export declare function input_value(selector: any, parent?: any): string;
+export declare function input_value(selector: string | object, parent?: Node & ParentNode | null): string | null;
