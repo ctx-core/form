@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 5.3.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.5.1
+
 ## 5.3.0
 
 ### Minor Changes
