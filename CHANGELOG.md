@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 5.3.4
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/dom@9.0.10
+
 ## 5.3.3
 
 ### Patch Changes
