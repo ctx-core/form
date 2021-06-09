@@ -1,5 +1,11 @@
 # @ctx-core/form
 
+## 5.3.5
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.3.4
 
 ### Patch Changes
