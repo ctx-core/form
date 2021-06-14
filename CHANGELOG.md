@@ -1,5 +1,16 @@
 # @ctx-core/form
 
+## 6.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.0
+
 ## 5.3.5
 
 ### Patch Changes
