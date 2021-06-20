@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 6.0.3
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.4
+
 ## 6.0.2
 
 ### Patch Changes
