@@ -6,4 +6,5 @@ export function radio_value(name:string) {
 			return element.value
 		}
 	}
+	return
 }
