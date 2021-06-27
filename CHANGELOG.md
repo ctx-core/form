@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 6.0.11
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.15
+
 ## 6.0.10
 
 ### Patch Changes
