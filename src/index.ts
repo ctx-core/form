@@ -1,2 +1,2 @@
-export * from './input_value'
-export * from './radio_value'
+export * from './input_value.js'
+export * from './radio_value.js'
