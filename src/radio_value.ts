@@ -1,4 +1,4 @@
-export function radio_value(name:string) {
+export function radio_value(name:string):string|undefined {
 	const element_a:NodeList = document.getElementsByName(name)
 	for (let i = 0, l = element_a.length; i < l; i++) {
 		const element = element_a[i] as HTMLInputElement
