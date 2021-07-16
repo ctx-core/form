@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.4
+
 ## 7.0.3
 
 ### Patch Changes
