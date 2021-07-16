@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.8
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.9
+
 ## 7.0.7
 
 ### Patch Changes
