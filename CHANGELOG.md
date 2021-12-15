@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.35
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/dom@11.0.43
+
 ## 7.0.34
 
 ### Patch Changes
