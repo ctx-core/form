@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.36
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/dom@11.0.44
+
 ## 7.0.35
 
 ### Patch Changes
