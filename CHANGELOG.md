@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.37
+
+### Patch Changes
+
+- fix: build
+- Updated dependencies
+  - @ctx-core/dom@11.0.45
+
 ## 7.0.36
 
 ### Patch Changes
