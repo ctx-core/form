@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.41
+
+### Patch Changes
+
+- fix: unnecessary type strictness: Node instead of Node&ParentNode
+- Updated dependencies
+  - @ctx-core/dom@11.0.49
+
 ## 7.0.40
 
 ### Patch Changes
