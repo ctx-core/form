@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.42
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/dom@11.1.2
+
 ## 7.0.41
 
 ### Patch Changes
