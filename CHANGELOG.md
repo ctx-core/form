@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.48
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/dom@11.1.10
+
 ## 7.0.47
 
 ### Patch Changes
