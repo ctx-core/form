@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.51
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/dom@11.1.14
+
 ## 7.0.50
 
 ### Patch Changes
