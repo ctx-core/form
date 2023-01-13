@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/form",
-	"version": "7.0.74",
+	"version": "7.0.75",
 	"description": "ctx-core form",
 	"keywords": [
 		"ctx-core",
@@ -38,7 +38,7 @@
 	"devDependencies": {
 		"@swc/cli": "^0.1.59",
 		"@swc/core": "^1.3.26",
-		"rimraf": "^3.0.2",
+		"rimraf": "^4.0.1",
 		"typescript": "next"
 	},
 	"publishConfig": {
