@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/form",
-	"version": "7.0.79",
+	"version": "7.0.80",
 	"description": "ctx-core form",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.2.23"
+		"@ctx-core/dom": "^11.2.24"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.59",
