@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.0.81
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/dom@11.2.25
+
 ## 7.0.80
 
 ### Patch Changes
