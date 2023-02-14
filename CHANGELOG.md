@@ -1,5 +1,12 @@
 # @ctx-core/form
 
+## 7.2.0
+
+### Minor Changes
+
+- radio\_\_value: aliased by radio_value
+- input\_\_value: aliased by input_value
+
 ## 7.1.0
 
 ### Minor Changes
