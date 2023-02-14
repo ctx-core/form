@@ -2,7 +2,7 @@
  * @param name{string}
  * @returns {string|undefined}
  */
-export function radio__value(name) {
+export function radio__value_(name) {
 	const element_a = document.getElementsByName(name)
 	for (let i = 0, l = element_a.length; i < l; i++) {
 		const element = element_a[i]
@@ -13,5 +13,5 @@ export function radio__value(name) {
 	return
 }
 export {
-	radio__value as radio_value,
+	radio__value_ as radio_value,
 }

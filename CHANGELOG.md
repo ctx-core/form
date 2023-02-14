@@ -1,5 +1,12 @@
 # @ctx-core/form
 
+## 7.3.0
+
+### Minor Changes
+
+- radio**value=>radio**value\_
+- input**value=>input**value\_
+
 ## 7.2.0
 
 ### Minor Changes
