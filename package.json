@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/form",
-	"version": "7.3.30",
+	"version": "7.3.31",
 	"description": "ctx-core form",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.4.27"
+		"@ctx-core/dom": "^11.4.28"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
