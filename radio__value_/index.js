@@ -1,5 +1,5 @@
 /**
- * @param name{string}
+ * @param {string}name
  * @returns {string|undefined}
  */
 export function radio__value_(name) {
