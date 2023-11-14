@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.4.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/dom@15.1.3
+
 ## 7.4.2
 
 ### Patch Changes
