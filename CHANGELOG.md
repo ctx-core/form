@@ -1,5 +1,11 @@
 # @ctx-core/form
 
+## 7.4.35
+
+### Patch Changes
+
+- @ctx-core/dom: ^15.1.34 -> ^15.1.35
+
 ## 7.4.34
 
 ### Patch Changes
