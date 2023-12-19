@@ -1,5 +1,14 @@
 # @ctx-core/form
 
+## 7.4.60
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@15.1.60
+
 ## 7.4.59
 
 ### Patch Changes
