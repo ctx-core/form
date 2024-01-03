@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.4.77
+
+### Patch Changes
+
+- @ctx-core/dom: ^15.2.6 -> ^15.2.7
+- Updated dependencies
+  - @ctx-core/dom@15.2.8
+
 ## 7.4.76
 
 ### Patch Changes
