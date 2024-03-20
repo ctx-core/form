@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.4.162
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - @ctx-core/dom@15.3.53
+
 ## 7.4.161
 
 ### Patch Changes
