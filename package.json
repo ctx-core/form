@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/form",
-	"version": "7.4.187",
+	"version": "7.4.188",
 	"description": "ctx-core form",
 	"keywords": [
 		"ctx-core",
@@ -44,12 +44,12 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^15.3.78"
+		"@ctx-core/dom": "^15.3.79"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
 		"check-dts": "^0.7.2",
-		"tsx": "^4.10.0",
+		"tsx": "^4.10.2",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
