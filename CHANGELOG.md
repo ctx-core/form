@@ -1,5 +1,13 @@
 # @ctx-core/form
 
+## 7.4.213
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - @ctx-core/dom@15.3.104
+
 ## 7.4.212
 
 ### Patch Changes
